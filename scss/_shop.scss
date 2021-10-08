@@ -1,0 +1,47 @@
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 20vh;
+}
+
+
+.wrapper {
+    margin-top: 5vh;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 4em;
+    grid-row-gap: 4em;
+    padding: 2em;
+}
+
+.wrapper a {
+    text-decoration: none;
+}
+
+#wrapped-text {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.shop h2 {
+    font-size: 1.3em;
+    margin-top: 0.5em;
+    color: white;
+}
+
+.shop h3 {
+    font-size: 1em;
+    margin-top: 0.3em;
+    color: white;
+}
+
+.shop p {
+    margin-top: 1em;
+    color: white;
+    font-size: 0.9em;
+}
+
+.shop img {
+    width: 100%;
+    border-radius: 0.6em;
+}

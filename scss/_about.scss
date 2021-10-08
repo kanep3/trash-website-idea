@@ -1,0 +1,30 @@
+.about {
+    margin-top: 15vh;
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+.about h1 {
+    color:white;
+    font-size: 2.3em;
+    margin: 1.7em;
+    margin-bottom: 0.4em;
+}
+
+.about p {
+    color:white;
+    font-size: 1.7em;
+    line-height: 1.7em;
+    margin: 2.4em;
+    margin-top: 0;
+}
+
+.about img {
+    margin-top: 10vh;
+    width: 70%;
+    overflow: hidden;
+}
+
+.about a {
+    color: white;
+}
