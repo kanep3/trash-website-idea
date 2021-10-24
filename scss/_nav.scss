@@ -20,13 +20,13 @@
 }
 
 .navMenu a:hover {
-    color: $accent1;
+    color: $accent;
 }
 
 .navMenu .dot {
     width: 6px;
     height: 6px;
-    background: $accent1;
+    background: $accent;
     border-radius: 50%;
     opacity: 0;
     -webkit-transform: translateX(22px);

@@ -72,13 +72,13 @@
 }
 
 .navMenu a:hover {
-  color: #6B705C;
+  color: #6b705c;
 }
 
 .navMenu .dot {
   width: 6px;
   height: 6px;
-  background: #6B705C;
+  background: #6b705c;
   border-radius: 50%;
   opacity: 0;
   -webkit-transform: translateX(22px);
@@ -213,7 +213,7 @@
   padding: 0;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  background-color: #B7B7A4;
+  background-color: #b7b7a4;
   font-family: "Montserrat", sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
